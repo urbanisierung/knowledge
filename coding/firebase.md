@@ -19,6 +19,16 @@ firebase functions:config:get > .runtimeconfig.json
 firebase login:ci
 ```
 
+## Storage
+
+To sign URLs from Bucket:
+
+- Enable Service IAM for Project
+- Add Role to user
+  - Role: `Service Account Token Creator` (search for `JWT`)
+  - User: `...@appspot.gserviceaccount.com`
+  - URL: `https://console.cloud.google.com/iam-admin/iam?project=...`
+
 ## Github Action
 
 ```yaml
