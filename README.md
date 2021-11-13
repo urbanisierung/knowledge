@@ -1,3 +1,3 @@
-# Personal Knowledge Wiki
+# My Knowledge Wiki 🌿
 
-Collection of things I want to keep.
+Super inspired by [nikitavoloboev](https://github.com/nikitavoloboev/knowledge).
