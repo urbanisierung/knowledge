@@ -1,13 +1,27 @@
 # AWS
 
-## Connect to EC2
+## EC2
+
+### Connect to EC2
 
 ```bash
 #!/bin/bash
 ssh -i key.pem ec2-user@public-dns
 ```
 
-## Onboarding
+### Copy files from EC2 to local
+
+```bash
+scp -i key.pem ec2-user@public-dns:path/to/file /your/local/directory/files/to/download
+
+# zip directory beforehand
+zip -r all.zip /your/ec2/directory/
+
+# download all files
+scp -i key.pem ec2-user@public-dns:~/* /your/local/directory/files/to/download
+```
+
+### Onboarding
 
 Install Git
 
