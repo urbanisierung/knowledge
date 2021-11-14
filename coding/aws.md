@@ -31,6 +31,9 @@ Use screen for scripts (see also [here](https://linuxize.com/post/how-to-use-lin
 # new session
 screen -S session_name
 
+# list sessions
+screen -ls
+
 # re-attach
 screen -r
 ```
