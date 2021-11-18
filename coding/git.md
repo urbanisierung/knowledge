@@ -1,5 +1,13 @@
 # GIT
 
+## General
+
+Clone private repo with GitHub Token:
+
+```bash
+git clone https://username:password@github.com/username/repo_name.git
+```
+
 ## Default Branch
 
 Change local branch name for new inits:

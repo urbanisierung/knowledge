@@ -39,20 +39,10 @@ nvm install node
 node -e "console.log('Running Node.js ' + process.version)"
 ```
 
-Use screen for scripts (see also [here](https://linuxize.com/post/how-to-use-linux-screen/))
+Switch to dedicated version (check [nodejs.org](https://nodejs.org/)):
 
 ```bash
-# new session
-screen -S session_name
-
-# list sessions
-screen -ls
-
-# re-attach
-screen -r
+nvm install 16.13.0
 ```
 
-Useful shortcuts:
-
-- `ctrl`+`a` and `c`: create new window
-- `ctrl`+`a` and `ctrl`+`d`: dettach
+Use [Screen](../linux-commands/screen.md) to use different sessions for different scripts for example.
