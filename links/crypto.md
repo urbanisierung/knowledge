@@ -8,3 +8,7 @@
 ## NFT market places
 
 - [https://objkt.com/](https://objkt.com/)
+
+## Other
+
+- [Guild](https://alpha.guild.xyz/)
