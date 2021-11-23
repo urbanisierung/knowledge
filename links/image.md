@@ -4,6 +4,7 @@
 
 - [tldraw](https://www.tldraw.com/): excellent tool to quickly draw a diagram
 - [Excalidraw](https://excalidraw.com/)
+- [SVGco](https://svgco.de/)
 
 ## Image Manipulation
 
