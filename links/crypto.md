@@ -13,3 +13,7 @@
 
 - [Guild](https://alpha.guild.xyz/)
 - [TheForge Land](https://www.theforge.land/)
+
+## Writing
+
+- [https://mirror.xyz/](https://mirror.xyz/)
