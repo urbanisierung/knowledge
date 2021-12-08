@@ -17,3 +17,7 @@
 ## Writing
 
 - [https://mirror.xyz/](https://mirror.xyz/)
+
+## Learning
+
+- [https://www.useweb3.xyz/](https://www.useweb3.xyz/)
