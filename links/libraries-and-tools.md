@@ -3,6 +3,7 @@
 ## Utils
 
 - [https://github.com/AsyncBanana/microdiff](https://github.com/AsyncBanana/microdiff) - Diff Objects, zero deps
+- [https://github.com/colinhacks/zod](https://github.com/colinhacks/zod) - schema validation (typescript)
 
 ## Websites/apps
 
@@ -17,3 +18,7 @@
 
 - [https://github.com/visionmedia/node-progress](https://github.com/visionmedia/node-progress)
 - [https://github.com/alexeyraspopov/picocolors](https://github.com/alexeyraspopov/picocolors)
+
+## Charts
+
+- [https://github.com/jwilber/roughViz](https://github.com/jwilber/roughViz) - hand drawn charts
