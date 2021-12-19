@@ -18,7 +18,7 @@ ng new angular-tour-of-heroes
 npm i -D @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint eslint-config-airbnb-base eslint-config-prettier eslint-plugin-import eslint-plugin-prettier prettier
 ```
 
-Copy `.eslintrs.js` and `.prettierrc.json`.
+Copy [`.eslintrs.js`](./.eslintrc.js) and [`.prettierrc.json`](./.prettierrc.json).
 
 ## Tailwind CSS
 
@@ -27,7 +27,7 @@ npm install -D tailwindcss
 npm i @tailwindcss/typography @tailwindcss/forms
 ```
 
-Copy `tailwind.config.js`
+Copy [`tailwind.config.js`](./tailwind.config.js)
 
 Add to `style.scss`:
 
@@ -41,4 +41,10 @@ To enable purge in production use:
 
 ```bash
 NODE_ENV=production ng build
+```
+
+## Update to next stable version
+
+```bash
+ng update @angular/cli @angular/core
 ```
