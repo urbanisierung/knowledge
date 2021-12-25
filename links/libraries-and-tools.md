@@ -22,3 +22,7 @@
 ## Charts
 
 - [https://github.com/jwilber/roughViz](https://github.com/jwilber/roughViz) - hand drawn charts
+
+## Animation
+
+- [https://www.theatrejs.com/](https://www.theatrejs.com/)
