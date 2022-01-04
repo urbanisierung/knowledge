@@ -13,6 +13,7 @@
 
 - [http://pablojs.com/](http://pablojs.com/) - Create SVGs
 - [https://github.com/rough-stuff/rough](https://github.com/rough-stuff/rough) - hand drawn like svgs
+- [https://icon-shelf.github.io/](https://icon-shelf.github.io/) - svg manager
 
 ## CLI
 
