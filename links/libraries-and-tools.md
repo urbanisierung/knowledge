@@ -27,3 +27,15 @@
 ## Animation
 
 - [https://www.theatrejs.com/](https://www.theatrejs.com/)
+
+## Node Profiling
+
+- [https://github.com/davidmarkclements/0x](https://github.com/davidmarkclements/0x) - flame graphs
+
+## Social Networks
+
+- [https://github.com/mifi/instauto](https://github.com/mifi/instauto) - Instabot
+
+## NPX
+
+- [https://github.com/ljlm0402/typescript-express-starter](https://github.com/ljlm0402/typescript-express-starter) - Typescript Express Starter
