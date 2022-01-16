@@ -15,3 +15,7 @@
 ## Image Manipulation
 
 - [Photopea](https://www.photopea.com/): free Photoshop in the Browser
+
+## Gradients
+
+- [https://polychroma.app/](https://polychroma.app/)
