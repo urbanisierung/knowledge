@@ -23,3 +23,16 @@ echo $TYPEORM_PASSWORD
 
 psql -d ${database} -U ${user} -h ${host}
 ```
+
+### Deployment Rollbacks
+
+```bash
+# show a history of all the deployments
+kubectl rollout history deployment console-web-deployment
+
+# shows details of a previous revision
+kubectl rollout history deployment console-web-deployment --revision <nummer>
+
+# rollback to a previous revision
+kubectl rollout undo deployment console-web-deployment --to-revision=<nummer>
+```
