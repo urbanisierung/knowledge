@@ -28,11 +28,11 @@ psql -d ${database} -U ${user} -h ${host}
 
 ```bash
 # show a history of all the deployments
-kubectl rollout history deployment console-web-deployment
+kubectl rollout history deployment POD_DEPLOYMENT
 
 # shows details of a previous revision
-kubectl rollout history deployment console-web-deployment --revision <nummer>
+kubectl rollout history deployment POD_DEPLOYMENT --revision <nummer>
 
 # rollback to a previous revision
-kubectl rollout undo deployment console-web-deployment --to-revision=<nummer>
+kubectl rollout undo deployment POD_DEPLOYMENT --to-revision=<nummer>
 ```
