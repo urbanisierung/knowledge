@@ -35,6 +35,7 @@
 ## Social Networks
 
 - [https://github.com/mifi/instauto](https://github.com/mifi/instauto) - Instabot
+- [https://ellisonleao.github.io/sharer.js/](https://ellisonleao.github.io/sharer.js/)
 
 ## NPX
 

@@ -8,6 +8,7 @@
 ## NFT market places
 
 - [https://objkt.com/](https://objkt.com/)
+- [https://looksrare.org](https://looksrare.org)
 
 ## Other
 
