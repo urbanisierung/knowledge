@@ -15,4 +15,7 @@ convert *.jpg -define webp:lossless=false converted.webp # convert to webp
 ```bash
 # webm to mp4
 ffmpeg -i ${in.webm} -crf 10 ${out.mp4}
+
+# webm to gif
+ffmpeg -i ${in.webm} -pix_fmt rgb8 ${out.gif}
 ```
