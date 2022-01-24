@@ -15,6 +15,7 @@
 ## Image Manipulation
 
 - [Photopea](https://www.photopea.com/): free Photoshop in the Browser
+- [https://edit.photo/](https://edit.photo/): simple photo editing
 
 ## Gradients
 
