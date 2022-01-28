@@ -7,3 +7,7 @@
 ## web3
 
 - [https://www.useweb3.xyz/]()https://www.useweb3.xyz/ - use web3
+
+## Computer Science
+
+- [https://github.com/Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
