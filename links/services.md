@@ -8,3 +8,7 @@
 ## Status Page
 
 - [https://github.com/statsig-io/statuspage](https://github.com/statsig-io/statuspage)
+
+## Communication (EMail, SMS)
+
+- [https://www.courier.com/](https://www.courier.com/)

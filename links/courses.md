@@ -6,6 +6,10 @@
 
 ## web3
 
+- [https://fireship.io/courses/](https://fireship.io/courses/)
+
+## web3
+
 - [https://www.useweb3.xyz/]()https://www.useweb3.xyz/ - use web3
 
 ## Computer Science
