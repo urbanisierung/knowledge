@@ -15,3 +15,11 @@
 ## Computer Science
 
 - [https://github.com/Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
+
+## Tech Resources
+
+- [https://github.com/louelladev/Helpful-Tech-Resources](https://github.com/louelladev/Helpful-Tech-Resources)
+
+## Interview questions
+
+- [https://github.com/sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
