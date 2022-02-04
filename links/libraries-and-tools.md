@@ -53,3 +53,7 @@
 ## Docs
 
 - [https://docs.page/](https://docs.page/) - zero config docs
+
+## Web Sockets
+
+- [https://github.com/soketi/soketi](https://github.com/soketi/soketi)
