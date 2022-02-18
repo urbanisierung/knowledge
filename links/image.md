@@ -24,3 +24,11 @@
 ## Profile Pictures
 
 - [https://pfpmaker.com/](https://pfpmaker.com/)
+
+## Illustrations
+
+- [https://iradesign.io/gallery/illustrations](https://iradesign.io/gallery/illustrations)
+
+## Tools
+
+- [https://hue.tools/?format=hex](https://hue.tools/?format=hex): working with colors
