@@ -34,3 +34,7 @@
 ## Infra
 
 - [https://fleek.co/](https://fleek.co/) - similar to Netlify or CloudFlare Pages but for web3
+
+## Grants
+
+- [https://grants.ankr.com/](https://grants.ankr.com/)
