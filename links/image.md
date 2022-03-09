@@ -32,3 +32,4 @@
 ## Tools
 
 - [https://hue.tools/?format=hex](https://hue.tools/?format=hex): working with colors
+- [https://huemint.com/brand-1/](https://huemint.com/brand-1/) - color palettes
