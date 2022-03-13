@@ -10,6 +10,7 @@
 
 - [https://objkt.com/](https://objkt.com/)
 - [https://looksrare.org](https://looksrare.org)
+- [https://artiva.app/](https://artiva.app/)
 
 ## Other
 
