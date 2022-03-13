@@ -11,6 +11,11 @@
 - [https://objkt.com/](https://objkt.com/)
 - [https://looksrare.org](https://looksrare.org)
 - [https://artiva.app/](https://artiva.app/)
+- [https://www.manifold.xyz/](https://www.manifold.xyz/)
+
+## Data
+
+- [https://ceramic.network/](https://ceramic.network/)
 
 ## Other
 
@@ -39,3 +44,7 @@
 ## Grants
 
 - [https://grants.ankr.com/](https://grants.ankr.com/)
+
+## Raised Money
+
+- [https://docs.google.com/spreadsheets/d/1Qd42u8WWnu5yYOAE5u-qLjjbLTlqGKzfFmOywHBBLFQ/edit](https://docs.google.com/spreadsheets/d/1Qd42u8WWnu5yYOAE5u-qLjjbLTlqGKzfFmOywHBBLFQ/edit) - milkroad raised money list
