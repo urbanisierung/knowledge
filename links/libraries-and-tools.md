@@ -59,3 +59,7 @@
 ## Web Sockets
 
 - [https://github.com/soketi/soketi](https://github.com/soketi/soketi)
+
+## Emails
+
+- [https://github.com/mjmlio/mjml](https://github.com/mjmlio/mjml) - create beautiful emails
