@@ -48,3 +48,13 @@ Push the commit to github
 git remote add origin <github-url>
 git push -u --force origin master
 ```
+
+## Hotfix
+
+Checkout latest tag and create new branch:
+
+```bash
+git checkout tags/<tag_name> -b <branch_name>
+```
+
+Publish branch and create a new release from branch
