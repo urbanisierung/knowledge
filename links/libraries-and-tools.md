@@ -1,5 +1,9 @@
 # Libraries and Tools
 
+## Avatars
+
+- [https://github.com/nusu/avvvatars](https://github.com/nusu/avvvatars) - create avatars by string value
+
 ## Utils
 
 - [https://github.com/AsyncBanana/microdiff](https://github.com/AsyncBanana/microdiff) - Diff Objects, zero deps
