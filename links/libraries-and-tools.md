@@ -25,6 +25,7 @@
 
 - [https://github.com/visionmedia/node-progress](https://github.com/visionmedia/node-progress)
 - [https://github.com/alexeyraspopov/picocolors](https://github.com/alexeyraspopov/picocolors)
+- [https://github.com/dutiyesh/chrome-extension-cli](https://github.com/dutiyesh/chrome-extension-cli) - quickly create chrome extensions
 
 ## Charts
 
@@ -67,3 +68,8 @@
 ## Emails
 
 - [https://github.com/mjmlio/mjml](https://github.com/mjmlio/mjml) - create beautiful emails
+
+## React
+
+- [https://github.com/gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride) - guided tours
+- [https://reactflow.dev/](https://reactflow.dev/) - node based flows
