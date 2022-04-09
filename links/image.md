@@ -16,6 +16,8 @@
 
 - [Photopea](https://www.photopea.com/): free Photoshop in the Browser
 - [https://edit.photo/](https://edit.photo/): simple photo editing
+- [https://www.magiceraser.io/](https://www.magiceraser.io/): remove things from images
+- [https://cleanup.pictures/](https://cleanup.pictures/): remove things from images
 
 ## Gradients
 
