@@ -11,6 +11,7 @@
 - [nnnoise](https://fffuel.co/nnnoise/): svg noice creator
 - [https://uigradients.com/](https://uigradients.com/): UI Gradients
   - Nice: Aragon
+- [https://poet.so/](https://poet.so/): beautiful pictures of tweets
 
 ## Image Manipulation
 
@@ -18,6 +19,7 @@
 - [https://edit.photo/](https://edit.photo/): simple photo editing
 - [https://www.magiceraser.io/](https://www.magiceraser.io/): remove things from images
 - [https://cleanup.pictures/](https://cleanup.pictures/): remove things from images
+- [https://www.brandbird.app/studio](https://www.brandbird.app/studio): create beautiful banner images
 
 ## Gradients
 

@@ -16,6 +16,7 @@
 ## Data
 
 - [https://ceramic.network/](https://ceramic.network/)
+- [https://sourcify.dev/](https://sourcify.dev/) - verify contracts
 
 ## Other
 
@@ -48,3 +49,7 @@
 ## Raised Money
 
 - [https://docs.google.com/spreadsheets/d/1Qd42u8WWnu5yYOAE5u-qLjjbLTlqGKzfFmOywHBBLFQ/edit](https://docs.google.com/spreadsheets/d/1Qd42u8WWnu5yYOAE5u-qLjjbLTlqGKzfFmOywHBBLFQ/edit) - milkroad raised money list
+
+## React Libs
+
+- [https://center.dev/](https://center.dev/): add nft pictures easily to your react app
