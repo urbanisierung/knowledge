@@ -41,3 +41,11 @@
 ## Cropper
 
 - [https://cropper.madza.dev/](https://cropper.madza.dev/) - social media optimized cropper
+
+## Vectorization
+
+- [https://vectorization.eu/](https://vectorization.eu/) - free tool to convert images to svg
+
+## Image conversion
+
+- [https://svgtopng.com/](https://svgtopng.com/) - svg to image
