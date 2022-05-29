@@ -24,3 +24,11 @@
 ## Crons
 
 - [https://mergent.co/](https://mergent.co/) - cron
+
+## Visualization
+
+- [https://flourish.studio/](https://flourish.studio/) - nice graphs
+
+## Presentations
+
+- [https://www.mentimeter.com/](https://www.mentimeter.com/) - embed interactive polls/quizzes in your presentations
