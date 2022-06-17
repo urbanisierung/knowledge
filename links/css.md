@@ -10,3 +10,7 @@
 ## Tiny helper
 
 - [https://9elements.github.io/fancy-border-radius/](https://9elements.github.io/fancy-border-radius/) - blob creation
+
+## Shadows
+
+- [https://alvarotrigo.com/shadow-gradients/](https://alvarotrigo.com/shadow-gradients/)

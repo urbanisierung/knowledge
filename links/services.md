@@ -32,3 +32,7 @@
 ## Presentations
 
 - [https://www.mentimeter.com/](https://www.mentimeter.com/) - embed interactive polls/quizzes in your presentations
+
+## Cloud Infra
+
+- [https://mogenius.com](https://mogenius.com)
