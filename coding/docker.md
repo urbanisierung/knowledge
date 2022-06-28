@@ -6,6 +6,9 @@ Build Image
 
 ```bash
 docker build . -t $TAG
+
+# no cache: --no-cache
+# build args (like env vars): --build-arg NPM_TOKEN=$NPM_TOKEN
 ```
 
 Run Image
