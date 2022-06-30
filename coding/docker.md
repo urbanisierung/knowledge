@@ -36,3 +36,15 @@ docker logs -f --tail 100 $NAME
 # watch running instances
 watch docker ps
 ```
+
+Clean up (more [here](https://renehernandez.io/snippets/cleaning-local-docker-cache/))
+
+```bash
+# Removing unused containers
+docker ps --filter status=exited --filter status=dead -q
+docker rm $(docker ps --filter=status=exited --filter=status=dead -q)
+
+# Removing dangling images
+docker images --filter dangling=true -q
+docker rmi $(docker images --filter dangling=true -q)
+```
