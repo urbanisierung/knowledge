@@ -54,3 +54,7 @@
 ## React Libs
 
 - [https://center.dev/](https://center.dev/): add nft pictures easily to your react app
+
+## Solana
+
+- [https://solanacookbook.com/](https://solanacookbook.com/) - great intro
