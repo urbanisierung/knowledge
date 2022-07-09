@@ -37,3 +37,7 @@
 
 - [https://mogenius.com](https://mogenius.com)
 - [https://railway.app/](https://railway.app/)
+
+## AI
+
+- [https://www.craiyon.com/](https://www.craiyon.com/) - images by text via AI

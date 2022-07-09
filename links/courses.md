@@ -24,3 +24,7 @@
 ## Rust
 
 - [https://github.com/vinodotdev/node-to-rust](https://github.com/vinodotdev/node-to-rust) - node to rust
+
+## Typescript
+
+- [https://github.com/type-challenges](https://github.com/type-challenges) - type challenges
