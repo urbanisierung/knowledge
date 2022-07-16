@@ -37,6 +37,7 @@
 
 - [https://mogenius.com](https://mogenius.com)
 - [https://railway.app/](https://railway.app/)
+- [https://coolify.io/](https://coolify.io/) - self hosted netlify!
 
 ## AI
 
