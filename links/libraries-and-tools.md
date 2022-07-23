@@ -85,3 +85,7 @@
 ## Other
 
 - [https://pocketbase.io/](https://pocketbase.io/) - saas backend in one file
+
+## Bots
+
+- [https://github.com/abdfnx/botway](https://github.com/abdfnx/botway) - framework to write bots for slack, discord, telegram
