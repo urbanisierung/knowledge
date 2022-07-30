@@ -10,6 +10,7 @@
 - [https://github.com/colinhacks/zod](https://github.com/colinhacks/zod) - schema validation (typescript)
 - [https://github.com/alexfoxy/lax.js](https://github.com/alexfoxy/lax.js) - easy scroll effects
 - [https://ellisonleao.github.io/sharer.js/](https://ellisonleao.github.io/sharer.js/) - share via social networks
+- [https://github.com/ndaidong/article-parser](https://github.com/ndaidong/article-parser) - Article Extractor
 
 ## Websites/apps
 
