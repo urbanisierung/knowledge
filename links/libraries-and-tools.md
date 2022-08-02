@@ -90,3 +90,7 @@
 ## Bots
 
 - [https://github.com/abdfnx/botway](https://github.com/abdfnx/botway) - framework to write bots for slack, discord, telegram
+
+## Indexing/Search
+
+- [https://github.com/nearform/lyra](https://github.com/nearform/lyra) - fast client/server lib to search db
