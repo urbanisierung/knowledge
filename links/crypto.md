@@ -31,6 +31,7 @@
 ## Learning
 
 - [https://www.useweb3.xyz/](https://www.useweb3.xyz/)
+- [https://twitter.com/koroushak/status/1557382235614896128?s=11&t=Jwj1rRCEQm7-fmkz9t_5eg](https://twitter.com/koroushak/status/1557382235614896128?s=11&t=Jwj1rRCEQm7-fmkz9t_5eg) - Twitter Thread about making money with crypto
 
 ## IPFS
 
