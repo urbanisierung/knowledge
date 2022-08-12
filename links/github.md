@@ -5,3 +5,4 @@
 - [Pintora](https://github.com/hikerpig/pintora) - text to diagrams
 - [Ripsecrets](https://github.com/sirwart/ripsecrets) - check if repo contains secrets
 - [Froebel](https://github.com/MathisBullinger/froebel) - typed utility functions
+- [https://github.com/microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - Microsoft Emoji List
