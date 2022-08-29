@@ -1,6 +1,7 @@
 # interview questions
 
 source: [https://daveceddia.com/interview-questions-to-ask-company/](https://daveceddia.com/interview-questions-to-ask-company/)
+another: [https://github.com/Twipped/InterviewThis](https://github.com/Twipped/InterviewThis)
 
 How big is the company?
 
