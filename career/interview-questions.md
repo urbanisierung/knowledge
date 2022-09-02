@@ -2,6 +2,7 @@
 
 source: [https://daveceddia.com/interview-questions-to-ask-company/](https://daveceddia.com/interview-questions-to-ask-company/)
 another: [https://github.com/Twipped/InterviewThis](https://github.com/Twipped/InterviewThis)
+research: [https://neverworkintheory.org/2022/08/30/software-engineering-research-questions.html](https://neverworkintheory.org/2022/08/30/software-engineering-research-questions.html)
 
 How big is the company?
 
