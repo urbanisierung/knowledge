@@ -19,3 +19,7 @@
 ## Nice effects
 
 - [Twitter Thread: @Steve8708](https://threadreaderapp.com/thread/1546657470604382208.html?s=20&t=s6ofZC9jfti56fnsjTMmPQ)
+
+## Other
+
+- [https://hihayk.github.io/shaper/](https://hihayk.github.io/shaper/)
