@@ -1,5 +1,7 @@
 # Services
 
+- [https://www.jokan.studio/web-tools-ressources-list](https://www.jokan.studio/web-tools-ressources-list) - nice overview list
+
 ## Database
 
 - [Planetscale](https://planetscale.com/): The MySQL-compatible serverless database platform.
@@ -40,8 +42,6 @@
 - [https://railway.app/](https://railway.app/)
 - [https://coolify.io/](https://coolify.io/) - self hosted netlify!
 
-## AI
+## Website Builder
 
-- [https://www.craiyon.com/](https://www.craiyon.com/) - images by text via AI
-- [https://victorytale.com/best-ai-voice-generators-text-to-speech/](https://victorytale.com/best-ai-voice-generators-text-to-speech/) - overview: voice generators
-- [https://www.makeuseof.com/best-ai-video-generators-text-to-video/](https://www.makeuseof.com/best-ai-video-generators-text-to-video/) - overview: video generators
+- [https://versoly.com/](https://versoly.com/)

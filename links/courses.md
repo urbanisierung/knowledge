@@ -28,3 +28,5 @@
 ## Typescript
 
 - [https://github.com/type-challenges](https://github.com/type-challenges) - type challenges
+- [https://www.totaltypescript.com/tutorials/zod](https://www.totaltypescript.com/tutorials/zod) - zod course
+- [https://github.com/total-typescript/type-transformations-workshop](https://github.com/total-typescript/type-transformations-workshop) - type transformations

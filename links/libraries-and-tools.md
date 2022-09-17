@@ -87,6 +87,8 @@
 
 - [https://pocketbase.io/](https://pocketbase.io/) - saas backend in one file
 - [https://pemistahl.github.io/grex-js/](https://pemistahl.github.io/grex-js/) - regex helper
+- [https://github.com/upscayl/upscayl](https://github.com/upscayl/upscayl)
+- [https://crawlee.dev/](https://crawlee.dev/)
 
 ## Bots
 
