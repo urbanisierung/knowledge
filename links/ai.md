@@ -3,6 +3,9 @@
 ## Audio / Video
 
 - https://koe.ai/recast/ and https://ebsynth.com/
+- [https://www.synthesia.io/](https://www.synthesia.io/) - Web-based platform for creating videos with AI avatars and voices.
+- [https://www.descript.com/](https://www.descript.com/) - text to speech
+- [https://runwayml.com/](https://runwayml.com/) - video editing
 
 ## Images
 
@@ -11,7 +14,17 @@
 - [https://www.craiyon.com/](https://www.craiyon.com/) - images by text via AI
 - [https://victorytale.com/best-ai-voice-generators-text-to-speech/](https://victorytale.com/best-ai-voice-generators-text-to-speech/) - overview: voice generators
 - [https://www.makeuseof.com/best-ai-video-generators-text-to-video/](https://www.makeuseof.com/best-ai-video-generators-text-to-video/) - overview: video generators
+- [https://photosonic.writesonic.com/](https://photosonic.writesonic.com/) - Create realistic or artistic images from any text description, using a state-of-the-art text-to-image AI model.
+- [https://clipdrop.co/](https://clipdrop.co/) - Remove objects, people, text, and defects from your pictures automatically.
+- [https://www.supermeme.ai/](https://www.supermeme.ai/) - Generate AI memes by simply typing a sentence and its AI automatically chooses the template and writes a caption.
+- [https://www.unscreen.com/](https://www.unscreen.com/) - Producing background-free video used to require complex and fiddly techniques like chroma-keying and greenscreens.
+- [https://hey.reface.ai/](https://hey.reface.ai/) - Reface is an app where you can swap faces in videos, GIFs, and memes with just one selfie.
 
 ## Text
 
 - [https://quillbot.com/](https://quillbot.com/)
+- [https://tribescaler.com/](https://tribescaler.com/) - Your tweets go viral with Tribescaler.
+
+## Other
+
+- [https://excelformulabot.com/](https://excelformulabot.com/) - Transform your text instructions into Excel formulas in seconds with the help of AI.
