@@ -48,3 +48,21 @@ docker rm $(docker ps --filter=status=exited --filter=status=dead -q)
 docker images --filter dangling=true -q
 docker rmi $(docker images --filter dangling=true -q)
 ```
+
+## Dockerfile Best Practices
+
+![dockerfile best practices](./docker/docker-nodejs-best-practices.png)
+
+Using dumb-init
+
+```dockerfile
+# https://github.com/Yelp/dumb-init
+RUN apk add dumb-init
+```
+
+Avoid calling `npm`, use instead:
+
+```dockerfile
+EXPOSE 8080
+CMD ["dumb-init", "node", "dist/index.js"]
+```
