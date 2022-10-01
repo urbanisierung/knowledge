@@ -4,3 +4,7 @@
 - [https://www.youtube.com/watch?v=8aGhZQkoFbQ&ab_channel=JSConf](https://www.youtube.com/watch?v=8aGhZQkoFbQ&ab_channel=JSConf) - D3 19h
 - [https://www.youtube.com/c/numberphile/videos](https://www.youtube.com/c/numberphile/videos)
 - [https://www.youtube.com/c/ycombinator](https://www.youtube.com/c/ycombinator)
+
+## TED
+
+- [https://twitter.com/fredosrippleef/status/1575160860032454661?s=11&t=dOV2_smdbUfZCVSO9qLGDQ](https://twitter.com/fredosrippleef/status/1575160860032454661?s=11&t=dOV2_smdbUfZCVSO9qLGDQ) - Here are the top 10 TED Talks that will change your life

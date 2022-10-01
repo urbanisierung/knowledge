@@ -5,3 +5,4 @@
 - [https://github.com/nateplusplus/pushin](https://github.com/nateplusplus/pushin) - simple parallax
 - [https://github.com/johnwalley/allotment](https://github.com/johnwalley/allotment) - split views
 - [https://github.com/timc1/kbar](https://github.com/timc1/kbar) - `ctrl` + `k` integration
+- [https://cmdk.paco.me/](https://cmdk.paco.me/) - supernice `ctrl` + `k` integration

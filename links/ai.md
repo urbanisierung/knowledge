@@ -20,6 +20,11 @@
 - [https://www.unscreen.com/](https://www.unscreen.com/) - Producing background-free video used to require complex and fiddly techniques like chroma-keying and greenscreens.
 - [https://hey.reface.ai/](https://hey.reface.ai/) - Reface is an app where you can swap faces in videos, GIFs, and memes with just one selfie.
 
+### Stable Diffusion
+
+- [https://www.jonstokes.com/p/getting-started-with-stable-diffusion](https://www.jonstokes.com/p/getting-started-with-stable-diffusion) - getting started
+- [https://code.mendhak.com/run-stable-diffusion-on-ubuntu/](https://code.mendhak.com/run-stable-diffusion-on-ubuntu/) - ubuntu getting started
+
 ## Text
 
 - [https://quillbot.com/](https://quillbot.com/)
