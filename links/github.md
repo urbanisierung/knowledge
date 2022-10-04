@@ -8,3 +8,4 @@
 - [https://github.com/microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - Microsoft Emoji List
 - [https://github.com/axa-group/Parsr](https://github.com/axa-group/Parsr) - Parse pdfs, docx, ... and get structured data
 - [https://alinea.sh/](https://alinea.sh/)
+- [https://github.com/leeoniya/uFuzzy](https://github.com/leeoniya/uFuzzy) - fuzzy search
