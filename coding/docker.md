@@ -53,6 +53,8 @@ docker rmi $(docker images --filter dangling=true -q)
 
 ![dockerfile best practices](./docker/docker-nodejs-best-practices.png)
 
+or [https://snyk.io/blog/10-best-practices-to-containerize-nodejs-web-applications-with-docker/](https://snyk.io/blog/10-best-practices-to-containerize-nodejs-web-applications-with-docker/)
+
 Using dumb-init
 
 ```dockerfile
