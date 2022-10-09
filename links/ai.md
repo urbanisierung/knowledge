@@ -33,3 +33,4 @@
 ## Other
 
 - [https://excelformulabot.com/](https://excelformulabot.com/) - Transform your text instructions into Excel formulas in seconds with the help of AI.
+- [https://thisxdoesnotexist.com/](https://thisxdoesnotexist.com/)
