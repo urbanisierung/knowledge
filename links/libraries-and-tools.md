@@ -21,6 +21,7 @@
 - [http://pablojs.com/](http://pablojs.com/) - Create SVGs
 - [https://github.com/rough-stuff/rough](https://github.com/rough-stuff/rough) - hand drawn like svgs
 - [https://icon-shelf.github.io/](https://icon-shelf.github.io/) - svg manager
+- [https://github.com/vercel/satori](https://github.com/vercel/satori) - svg generation with html and css
 
 ## CLI
 
