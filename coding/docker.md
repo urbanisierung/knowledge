@@ -53,7 +53,8 @@ docker rmi $(docker images --filter dangling=true -q)
 
 ![dockerfile best practices](./docker/docker-nodejs-best-practices.png)
 
-or [https://snyk.io/blog/10-best-practices-to-containerize-nodejs-web-applications-with-docker/](https://snyk.io/blog/10-best-practices-to-containerize-nodejs-web-applications-with-docker/)
+- [https://snyk.io/blog/10-best-practices-to-containerize-nodejs-web-applications-with-docker/](https://snyk.io/blog/10-best-practices-to-containerize-nodejs-web-applications-with-docker/)
+- [https://github.com/nodejs/docker-node/blob/main/docs/BestPractices.md](https://github.com/nodejs/docker-node/blob/main/docs/BestPractices.md)
 
 Using dumb-init
 
@@ -67,4 +68,26 @@ Avoid calling `npm`, use instead:
 ```dockerfile
 EXPOSE 8080
 CMD ["dumb-init", "node", "dist/index.js"]
+```
+
+Non user example:
+
+```dockerfile
+FROM node:10-alpine
+
+RUN mkdir -p /home/node/app/node_modules && chown -R node:node /home/node/app
+
+WORKDIR /home/node/app
+
+COPY package*.json ./
+
+USER node
+
+RUN npm install
+
+COPY --chown=node:node . .
+
+EXPOSE 8080
+
+CMD [ "node", "app.js" ]
 ```
