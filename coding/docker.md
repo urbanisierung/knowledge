@@ -51,6 +51,8 @@ docker rmi $(docker images --filter dangling=true -q)
 
 ## Dockerfile Best Practices
 
+Use the right Node base image: [https://snyk.io/blog/choosing-the-best-node-js-docker-image/](https://snyk.io/blog/choosing-the-best-node-js-docker-image/)
+
 ![dockerfile best practices](./docker/docker-nodejs-best-practices.png)
 
 - [https://snyk.io/blog/10-best-practices-to-containerize-nodejs-web-applications-with-docker/](https://snyk.io/blog/10-best-practices-to-containerize-nodejs-web-applications-with-docker/)
