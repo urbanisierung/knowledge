@@ -2,6 +2,7 @@
 
 - [https://twitter.com/afilina/status/1568051645971406849?s=11&t=pIN17KJYBEgI1p6L6Qjcxw](https://twitter.com/afilina/status/1568051645971406849?s=11&t=pIN17KJYBEgI1p6L6Qjcxw) - When a veteran on the project shows you around the undocumented legacy code.
 - [https://twitter.com/overtime/status/1569805866190372865?utm_source=stefanjudis](https://twitter.com/overtime/status/1569805866190372865?utm_source=stefanjudis) - only in nyc
+- [https://twitter.com/jaredpalmer/status/1581970059748339714?s=43&t=Pwcf6gPtCWYm8aBisgwP6A](https://twitter.com/jaredpalmer/status/1581970059748339714?s=43&t=Pwcf6gPtCWYm8aBisgwP6A) - brew install / npm install
 
 ## other nice videos
 
