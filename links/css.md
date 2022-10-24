@@ -7,6 +7,7 @@
 ## Hover
 
 - [https://css-tricks.com/adam-argyles-sick-mouse-out-css-hover-effect/](https://css-tricks.com/adam-argyles-sick-mouse-out-css-hover-effect/) - sick mouse out css hover effect
+- [https://github.com/IanLunn/Hover](https://github.com/IanLunn/Hover) - nice hover effects
 
 ## Tiny helper
 
