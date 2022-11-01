@@ -1,5 +1,7 @@
 # ffmpeg
 
+Nice guides: [https://ffmpeg.guide/](ffmpeg.guide)
+
 ## Image Manipulation
 
 ```bash

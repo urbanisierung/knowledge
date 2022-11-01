@@ -19,6 +19,13 @@
 - [https://www.supermeme.ai/](https://www.supermeme.ai/) - Generate AI memes by simply typing a sentence and its AI automatically chooses the template and writes a caption.
 - [https://www.unscreen.com/](https://www.unscreen.com/) - Producing background-free video used to require complex and fiddly techniques like chroma-keying and greenscreens.
 - [https://hey.reface.ai/](https://hey.reface.ai/) - Reface is an app where you can swap faces in videos, GIFs, and memes with just one selfie.
+- [https://photosonic.writesonic.com/](https://photosonic.writesonic.com/)
+- [https://patternmakerai.com/](https://patternmakerai.com/) - patterns
+
+### Avatars
+
+- [https://avatarai.me/](https://avatarai.me/)
+- [https://www.profilepicture.ai/](https://www.profilepicture.ai/)
 
 ### Stable Diffusion
 
@@ -29,6 +36,7 @@
 
 - [https://quillbot.com/](https://quillbot.com/)
 - [https://tribescaler.com/](https://tribescaler.com/) - Your tweets go viral with Tribescaler.
+- [https://lex.page/](https://lex.page/)
 
 ## Other
 

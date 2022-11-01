@@ -4,6 +4,8 @@
 - [https://twitter.com/overtime/status/1569805866190372865?utm_source=stefanjudis](https://twitter.com/overtime/status/1569805866190372865?utm_source=stefanjudis) - only in nyc
 - [https://twitter.com/jaredpalmer/status/1581970059748339714?s=43&t=Pwcf6gPtCWYm8aBisgwP6A](https://twitter.com/jaredpalmer/status/1581970059748339714?s=43&t=Pwcf6gPtCWYm8aBisgwP6A) - brew install / npm install
 - [https://twitter.com/nixcraft/status/1584076345465675776?s=43&t=JfqcCN4hdOiliaEJC2Q4tw](https://twitter.com/nixcraft/status/1584076345465675776?s=43&t=JfqcCN4hdOiliaEJC2Q4tw) - fixing live production be like ...
+- [https://twitter.com/ormanclark/status/1586725715705208832?s=43&t=NIsgvCZtI0RkRkqJeyvVxg](https://twitter.com/ormanclark/status/1586725715705208832?s=43&t=NIsgvCZtI0RkRkqJeyvVxg) - ux designer: this feature is self-explanatory
+- [https://twitter.com/kiwiev/status/1586447822882152454?s=43&t=NIsgvCZtI0RkRkqJeyvVxg](https://twitter.com/kiwiev/status/1586447822882152454?s=43&t=NIsgvCZtI0RkRkqJeyvVxg) - Whatever you think is going to happen will be wrong.
 
 ## other nice videos
 
