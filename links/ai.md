@@ -31,15 +31,22 @@
 
 - [https://www.jonstokes.com/p/getting-started-with-stable-diffusion](https://www.jonstokes.com/p/getting-started-with-stable-diffusion) - getting started
 - [https://code.mendhak.com/run-stable-diffusion-on-ubuntu/](https://code.mendhak.com/run-stable-diffusion-on-ubuntu/) - ubuntu getting started
+- [https://diffusionbee.com/](https://diffusionbee.com/) - mac app
 
 ## Text
 
 - [https://quillbot.com/](https://quillbot.com/)
 - [https://tribescaler.com/](https://tribescaler.com/) - Your tweets go viral with Tribescaler.
 - [https://lex.page/](https://lex.page/)
+- [https://books.google.com/talktobooks/](https://books.google.com/talktobooks/) - get Quotes
+
+## Music
+
+- [https://soundraw.io/](https://soundraw.io/) - generative music
 
 ## Other
 
 - [https://excelformulabot.com/](https://excelformulabot.com/) - Transform your text instructions into Excel formulas in seconds with the help of AI.
 - [https://thisxdoesnotexist.com/](https://thisxdoesnotexist.com/)
 - [https://github.com/sw-yx/prompt-eng](https://github.com/sw-yx/prompt-eng) - ML prompts
+- [https://lexica.art/](https://lexica.art/) - ML prompts
