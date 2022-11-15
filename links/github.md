@@ -9,3 +9,4 @@
 - [https://github.com/axa-group/Parsr](https://github.com/axa-group/Parsr) - Parse pdfs, docx, ... and get structured data
 - [https://alinea.sh/](https://alinea.sh/)
 - [https://github.com/leeoniya/uFuzzy](https://github.com/leeoniya/uFuzzy) - fuzzy search
+- [https://crd.so](https://crd.so) - business cards from github profile
