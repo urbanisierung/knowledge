@@ -10,3 +10,4 @@
 - [https://alinea.sh/](https://alinea.sh/)
 - [https://github.com/leeoniya/uFuzzy](https://github.com/leeoniya/uFuzzy) - fuzzy search
 - [https://crd.so](https://crd.so) - business cards from github profile
+- [https://github.com/sjmc11/tourguide-js](https://github.com/sjmc11/tourguide-js) - tour guide
