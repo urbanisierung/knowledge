@@ -21,6 +21,7 @@
 - [https://cleanup.pictures/](https://cleanup.pictures/): remove things from images
 - [https://www.brandbird.app/studio](https://www.brandbird.app/studio): create beautiful banner images
 - [https://github.com/upscayl/upscayl](https://github.com/upscayl/upscayl)
+- [https://github.com/danielgatis/rembg](https://github.com/danielgatis/rembg) - remove background
 
 ## Gradients
 

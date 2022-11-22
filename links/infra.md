@@ -10,3 +10,4 @@
 - [https://github.com/mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - all you need to know re self-hosting
 - [https://chiselstrike.com/](https://chiselstrike.com/) - backend api with ease
 - [https://devenv.sh/](https://devenv.sh/) - Fast, Declarative, Reproducible, and Composable Developer Environments
+- [https://infisical.com/](https://infisical.com/) - envvars management
