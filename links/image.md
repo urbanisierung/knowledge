@@ -12,6 +12,7 @@
 - [https://uigradients.com/](https://uigradients.com/): UI Gradients
   - Nice: Aragon
 - [https://poet.so/](https://poet.so/): beautiful pictures of tweets
+- [https://github.com/terrastruct/d2](https://github.com/terrastruct/d2) - text to diagrams
 
 ## Image Manipulation
 
