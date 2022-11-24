@@ -1,0 +1,46 @@
+# Github Actions
+
+## Tag and Publish to npm/private registry
+
+```yaml
+name: Tag and publish a new version
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  tag-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 19
+          cache: "yarn"
+      - name: Install
+        run: yarn install --frozen-lockfile
+      - name: Build
+        run: yarn build
+      - name: Set output
+        run: echo "RELEASE_VERSION=${GITHUB_REF#refs/*/}" >> $GITHUB_ENV
+      - name: Set version
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          npm version ${{ env.RELEASE_VERSION }} --git-tag-version false
+          git add .
+          git commit -m "chore: Publish v${{ env.RELEASE_VERSION }}"
+      - name: Publish to NPM
+        run: |
+          echo "//registry.npmjs.org/:_authToken=${{ env.NPM_TOKEN }}" >> .npmrc
+          npm publish --access=public
+        env:
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+      - name: Push changes
+        run: git push origin HEAD:main
+```
