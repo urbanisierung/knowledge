@@ -5,6 +5,7 @@
 - [https://www.youtube.com/c/numberphile/videos](https://www.youtube.com/c/numberphile/videos)
 - [https://www.youtube.com/c/ycombinator](https://www.youtube.com/c/ycombinator)
 - [https://twitter.com/upskillyourlife/status/1586998999902433285?s=43&t=hDLYam7b-0JR1ccR73fIrw](https://twitter.com/upskillyourlife/status/1586998999902433285?s=43&t=hDLYam7b-0JR1ccR73fIrw)
+- [https://twitter.com/fitfounder/status/1596504595609849856?s=43&t=VyfXptsWCXknVh8hTPbvkg](https://twitter.com/fitfounder/status/1596504595609849856?s=43&t=VyfXptsWCXknVh8hTPbvkg)
 
 ## TED
 
