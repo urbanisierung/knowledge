@@ -50,6 +50,7 @@
 ## Vectorization
 
 - [https://vectorization.eu/](https://vectorization.eu/) - free tool to convert images to svg
+- [https://vectormaker.co/](https://vectormaker.co/) - free tool to convert images to svg
 
 ## Image conversion
 
