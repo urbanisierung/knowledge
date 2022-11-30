@@ -6,3 +6,4 @@
 - [https://github.com/smirnov-am/awesome-saas-boilerplates](https://github.com/smirnov-am/awesome-saas-boilerplates) - Awesome SaaS Boilerplate Starter Kits
 - [https://github.com/Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - Awesome Hacking
 - [https://github.com/zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - Awesome Newsletters
+- [https://github.com/kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - Awesome CTO
