@@ -21,6 +21,7 @@
 - [https://hey.reface.ai/](https://hey.reface.ai/) - Reface is an app where you can swap faces in videos, GIFs, and memes with just one selfie.
 - [https://photosonic.writesonic.com/](https://photosonic.writesonic.com/)
 - [https://patternmakerai.com/](https://patternmakerai.com/) - patterns
+- [https://snapshotai.com/](https://snapshotai.com/) - images
 
 ### Avatars
 
