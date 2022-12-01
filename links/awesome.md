@@ -7,3 +7,4 @@
 - [https://github.com/Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - Awesome Hacking
 - [https://github.com/zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - Awesome Newsletters
 - [https://github.com/kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - Awesome CTO
+- [https://github.com/charlax/engineering-management](https://github.com/charlax/engineering-management) - Engineering Manager
