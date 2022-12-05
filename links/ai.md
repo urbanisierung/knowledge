@@ -22,6 +22,7 @@
 - [https://photosonic.writesonic.com/](https://photosonic.writesonic.com/)
 - [https://patternmakerai.com/](https://patternmakerai.com/) - patterns
 - [https://snapshotai.com/](https://snapshotai.com/) - images
+- [https://github.com/invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - stable diffusion locally made easy
 
 ### Avatars
 
