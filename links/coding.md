@@ -7,3 +7,7 @@
 ## Files
 
 - [changelog.md](https://changelog.md/)
+
+## Prettier/Linter
+
+- [https://rome.tools/](https://rome.tools/)
