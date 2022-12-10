@@ -23,6 +23,7 @@
 - [https://www.brandbird.app/studio](https://www.brandbird.app/studio): create beautiful banner images
 - [https://github.com/upscayl/upscayl](https://github.com/upscayl/upscayl)
 - [https://github.com/danielgatis/rembg](https://github.com/danielgatis/rembg) - remove background
+- [https://trekhleb.dev/js-image-carver/](https://trekhleb.dev/js-image-carver/) - image resizer
 
 ## Gradients
 
