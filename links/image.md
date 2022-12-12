@@ -24,6 +24,7 @@
 - [https://github.com/upscayl/upscayl](https://github.com/upscayl/upscayl)
 - [https://github.com/danielgatis/rembg](https://github.com/danielgatis/rembg) - remove background
 - [https://trekhleb.dev/js-image-carver/](https://trekhleb.dev/js-image-carver/) - image resizer
+- [https://imgcleaner.com/](https://imgcleaner.com/) - remove elements from images
 
 ## Gradients
 
