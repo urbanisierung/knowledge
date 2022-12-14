@@ -8,3 +8,4 @@
 - [https://cmdk.paco.me/](https://cmdk.paco.me/) - supernice `ctrl` + `k` integration
 - [https://github.com/karolkozer/planby](https://github.com/karolkozer/planby) - timeline lib
 - [https://louisbarranqueiro.github.io/reapop/](https://louisbarranqueiro.github.io/reapop/) - nice notifications
+- [https://unovis.dev/](https://unovis.dev/) - visualization library
