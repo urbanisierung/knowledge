@@ -10,3 +10,4 @@
 - [https://louisbarranqueiro.github.io/reapop/](https://louisbarranqueiro.github.io/reapop/) - nice notifications
 - [https://unovis.dev/](https://unovis.dev/) - visualization library
 - [https://airbnb.io/visx](https://airbnb.io/visx) - viz library
+- [https://rive.app/](https://rive.app/) - animation framework
