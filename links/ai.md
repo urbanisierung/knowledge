@@ -52,3 +52,7 @@
 - [https://thisxdoesnotexist.com/](https://thisxdoesnotexist.com/)
 - [https://github.com/sw-yx/prompt-eng](https://github.com/sw-yx/prompt-eng) - ML prompts
 - [https://lexica.art/](https://lexica.art/) - ML prompts
+
+## Tweets
+
+- [https://twitter.com/sparsh_sehgal/status/1603714063262814209?s=43&t=uPM-jzTk1hyGB2DJGq2ZaQ](https://twitter.com/sparsh_sehgal/status/1603714063262814209?s=43&t=uPM-jzTk1hyGB2DJGq2ZaQ) - Make AI work FOR you with these 10 AI Creative Design tools which start at $0
