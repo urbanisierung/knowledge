@@ -52,6 +52,7 @@
 - [https://thisxdoesnotexist.com/](https://thisxdoesnotexist.com/)
 - [https://github.com/sw-yx/prompt-eng](https://github.com/sw-yx/prompt-eng) - ML prompts
 - [https://lexica.art/](https://lexica.art/) - ML prompts
+- [https://learnprompting.org/docs/intro](https://learnprompting.org/docs/intro) - learn prompts
 
 ## Tweets
 
