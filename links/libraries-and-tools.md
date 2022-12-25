@@ -33,6 +33,7 @@
 ## Charts
 
 - [https://github.com/jwilber/roughViz](https://github.com/jwilber/roughViz) - hand drawn charts
+- [https://github.com/matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - particles visualization
 
 ## Animation
 
