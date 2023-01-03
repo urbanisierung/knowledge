@@ -1,5 +1,9 @@
 # Prompts
 
+## Collections
+
+- [https://trello.com/b/4BPkSY1w/100-ai-prompts-resources-prompt-lovers](https://trello.com/b/4BPkSY1w/100-ai-prompts-resources-prompt-lovers) - trello board with lots of prompts
+
 ## Image Creation
 
 ```
