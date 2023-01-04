@@ -11,3 +11,4 @@
 - [https://unovis.dev/](https://unovis.dev/) - visualization library
 - [https://airbnb.io/visx](https://airbnb.io/visx) - viz library
 - [https://rive.app/](https://rive.app/) - animation framework
+- [https://mafs.dev/](https://mafs.dev/) - lib to generate math graphs
