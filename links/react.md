@@ -12,3 +12,5 @@
 - [https://airbnb.io/visx](https://airbnb.io/visx) - viz library
 - [https://rive.app/](https://rive.app/) - animation framework
 - [https://mafs.dev/](https://mafs.dev/) - lib to generate math graphs
+- [https://react-wrap-balancer.vercel.app/](https://react-wrap-balancer.vercel.app/) - title balancer
+- [https://recharts.org/en-US](https://recharts.org/en-US)

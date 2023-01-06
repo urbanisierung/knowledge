@@ -4,6 +4,7 @@
 
 - [50 free tools and resources (Part 2) by Marko Denic](https://markodenic.com/50-free-tools-and-resources-part-2/)
 - [GitHub repositories to improve your programming skills](https://dev.to/denicmarko/github-repositories-to-improve-your-programming-skills-2d1e)
+- [https://mrfreetools.com/](https://mrfreetools.com/) - free tools search
 
 ## Web3
 
