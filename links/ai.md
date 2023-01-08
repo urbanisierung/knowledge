@@ -6,6 +6,7 @@
 - [https://www.synthesia.io/](https://www.synthesia.io/) - Web-based platform for creating videos with AI avatars and voices.
 - [https://www.descript.com/](https://www.descript.com/) - text to speech
 - [https://runwayml.com/](https://runwayml.com/) - video editing
+- [https://soundraw.io/](https://soundraw.io/) - genrate music
 
 ## Images
 
@@ -23,6 +24,8 @@
 - [https://patternmakerai.com/](https://patternmakerai.com/) - patterns
 - [https://snapshotai.com/](https://snapshotai.com/) - images
 - [https://github.com/invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - stable diffusion locally made easy
+- [https://fuups.ai/](https://fuups.ai/) - images and marketplace
+- [https://cleanup.pictures/](https://cleanup.pictures/) - remove unwanted items from images
 
 ### Avatars
 
@@ -53,6 +56,7 @@
 - [https://github.com/sw-yx/prompt-eng](https://github.com/sw-yx/prompt-eng) - ML prompts
 - [https://lexica.art/](https://lexica.art/) - ML prompts
 - [https://learnprompting.org/docs/intro](https://learnprompting.org/docs/intro) - learn prompts
+- [https://flowgpt.com/](https://flowgpt.com/)
 
 ## Tweets
 
