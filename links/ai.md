@@ -57,6 +57,7 @@
 - [https://lexica.art/](https://lexica.art/) - ML prompts
 - [https://learnprompting.org/docs/intro](https://learnprompting.org/docs/intro) - learn prompts
 - [https://flowgpt.com/](https://flowgpt.com/)
+- [https://aidepot.co/](https://aidepot.co/) - overview of AI Tools
 
 ## Tweets
 
