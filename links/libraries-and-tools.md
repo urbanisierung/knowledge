@@ -39,6 +39,7 @@
 ## Animation
 
 - [https://www.theatrejs.com/](https://www.theatrejs.com/)
+- [https://pixijs.com/](https://pixijs.com/)
 
 ## Node Profiling
 

@@ -11,3 +11,4 @@
 ## Prettier/Linter
 
 - [https://rome.tools/](https://rome.tools/)
+- [https://publint.dev/](https://publint.dev/) - npm package linter
