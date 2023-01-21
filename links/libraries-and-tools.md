@@ -1,5 +1,10 @@
 # Libraries and Tools
 
+## Animations
+
+- [https://barba.js.org/](https://barba.js.org/)
+- [https://jeremyckahn.github.io/shifty/doc/](https://jeremyckahn.github.io/shifty/doc/)
+
 ## Avatars
 
 - [https://github.com/nusu/avvvatars](https://github.com/nusu/avvvatars) - create avatars by string value

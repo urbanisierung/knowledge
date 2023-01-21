@@ -7,3 +7,4 @@
 - [https://www.tella.tv/](https://www.tella.tv/)
 - [https://www.veed.io/](https://www.veed.io/) - video editing
 - [https://lumen5.com/](https://lumen5.com/) - video editing
+- [https://www.blackmagicdesign.com/de/products/davinciresolve](https://www.blackmagicdesign.com/de/products/davinciresolve) - video editing desktop app
