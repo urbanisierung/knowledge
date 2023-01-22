@@ -11,3 +11,4 @@
 - [https://chiselstrike.com/](https://chiselstrike.com/) - backend api with ease
 - [https://devenv.sh/](https://devenv.sh/) - Fast, Declarative, Reproducible, and Composable Developer Environments
 - [https://infisical.com/](https://infisical.com/) - envvars management
+- [https://surge.sh/](https://surge.sh/) - easy publishing of static content
