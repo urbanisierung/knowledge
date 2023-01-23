@@ -7,6 +7,7 @@
 - [https://twitter.com/upskillyourlife/status/1586998999902433285?s=43&t=hDLYam7b-0JR1ccR73fIrw](https://twitter.com/upskillyourlife/status/1586998999902433285?s=43&t=hDLYam7b-0JR1ccR73fIrw)
 - [https://twitter.com/fitfounder/status/1596504595609849856?s=43&t=VyfXptsWCXknVh8hTPbvkg](https://twitter.com/fitfounder/status/1596504595609849856?s=43&t=VyfXptsWCXknVh8hTPbvkg)
 - [https://www.youtube.com/watch?v=hBk4nV7q6-w](https://www.youtube.com/watch?v=hBk4nV7q6-w) - TypeScript Tips
+- [https://yewtu.be/watch?v=s3e-BwAeevM](https://yewtu.be/watch?v=s3e-BwAeevM) - Art&Copy
 
 ## TED
 
