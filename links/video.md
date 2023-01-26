@@ -8,3 +8,7 @@
 - [https://www.veed.io/](https://www.veed.io/) - video editing
 - [https://lumen5.com/](https://lumen5.com/) - video editing
 - [https://www.blackmagicdesign.com/de/products/davinciresolve](https://www.blackmagicdesign.com/de/products/davinciresolve) - video editing desktop app
+
+## tools and howtos
+
+- [https://blog.curiosity.ai/how-to-make-product-videos-a-simple-guide-ad8864e031e2](https://blog.curiosity.ai/how-to-make-product-videos-a-simple-guide-ad8864e031e2)

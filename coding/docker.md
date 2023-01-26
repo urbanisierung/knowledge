@@ -11,6 +11,12 @@ docker build . -t $TAG
 # build args (like env vars): --build-arg NPM_TOKEN=$NPM_TOKEN
 ```
 
+With file in monorepo:
+
+```bash
+docker build -t $TAG -f $FILE --build-arg NAME=value .
+```
+
 Run Image
 
 ```bash
