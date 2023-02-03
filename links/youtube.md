@@ -8,6 +8,7 @@
 - [https://twitter.com/fitfounder/status/1596504595609849856?s=43&t=VyfXptsWCXknVh8hTPbvkg](https://twitter.com/fitfounder/status/1596504595609849856?s=43&t=VyfXptsWCXknVh8hTPbvkg)
 - [https://www.youtube.com/watch?v=hBk4nV7q6-w](https://www.youtube.com/watch?v=hBk4nV7q6-w) - TypeScript Tips
 - [https://yewtu.be/watch?v=s3e-BwAeevM](https://yewtu.be/watch?v=s3e-BwAeevM) - Art&Copy
+- [https://www.youtube.com/watch?v=ephM9Nw9pAA&ab_channel=GOTOConferences](https://www.youtube.com/watch?v=ephM9Nw9pAA&ab_channel=GOTOConferences) - Taking Back “Software Engineering” – Craftsmanship is Insufficient • Dave Farley • GOTO 2022
 
 ## TED
 
