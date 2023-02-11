@@ -26,6 +26,7 @@
 - [https://trekhleb.dev/js-image-carver/](https://trekhleb.dev/js-image-carver/) - image resizer
 - [https://imgcleaner.com/](https://imgcleaner.com/) - remove elements from images
 - [https://unfakepng.com/](https://unfakepng.com/) - remove bg
+- [https://github.com/yisibl/resvg-js](https://github.com/yisibl/resvg-js) - svg to png
 
 ## Gradients
 

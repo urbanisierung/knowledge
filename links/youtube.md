@@ -9,6 +9,7 @@
 - [https://www.youtube.com/watch?v=hBk4nV7q6-w](https://www.youtube.com/watch?v=hBk4nV7q6-w) - TypeScript Tips
 - [https://yewtu.be/watch?v=s3e-BwAeevM](https://yewtu.be/watch?v=s3e-BwAeevM) - Art&Copy
 - [https://www.youtube.com/watch?v=ephM9Nw9pAA&ab_channel=GOTOConferences](https://www.youtube.com/watch?v=ephM9Nw9pAA&ab_channel=GOTOConferences) - Taking Back “Software Engineering” – Craftsmanship is Insufficient • Dave Farley • GOTO 2022
+- [https://www.youtube.com/watch?v=8pDqJVdNa44&ab_channel=Honeypot](https://www.youtube.com/watch?v=8pDqJVdNa44&ab_channel=Honeypot) - React.js: The Documentary
 
 ## TED
 
