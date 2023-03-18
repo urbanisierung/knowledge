@@ -3,6 +3,7 @@
 ## Collections
 
 - [https://trello.com/b/4BPkSY1w/100-ai-prompts-resources-prompt-lovers](https://trello.com/b/4BPkSY1w/100-ai-prompts-resources-prompt-lovers) - trello board with lots of prompts
+- [https://twitter.com/aaditsh/status/1636398208648658945?s=43&t=nkmq7ZtVcxEg9Uel7KivwQ](https://twitter.com/aaditsh/status/1636398208648658945?s=43&t=nkmq7ZtVcxEg9Uel7KivwQ) - tweet with some popular prompts
 
 ## Image Creation
 
