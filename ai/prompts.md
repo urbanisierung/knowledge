@@ -4,6 +4,7 @@
 
 - [https://trello.com/b/4BPkSY1w/100-ai-prompts-resources-prompt-lovers](https://trello.com/b/4BPkSY1w/100-ai-prompts-resources-prompt-lovers) - trello board with lots of prompts
 - [https://twitter.com/aaditsh/status/1636398208648658945?s=43&t=nkmq7ZtVcxEg9Uel7KivwQ](https://twitter.com/aaditsh/status/1636398208648658945?s=43&t=nkmq7ZtVcxEg9Uel7KivwQ) - tweet with some popular prompts
+- [https://tryarvin.com/chatgpt-prompt-generator/chatgpt-prompts-for-social-media/act-as-a-social-media-influencer/](https://tryarvin.com/chatgpt-prompt-generator/chatgpt-prompts-for-social-media/act-as-a-social-media-influencer/) - prompt generator
 
 ## Image Creation
 
