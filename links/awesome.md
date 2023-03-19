@@ -9,3 +9,4 @@
 - [https://github.com/kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - Awesome CTO
 - [https://github.com/charlax/engineering-management](https://github.com/charlax/engineering-management) - Engineering Manager
 - [https://github.com/humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Awesome ChatGPT
+- [https://github.com/kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - Engineering Blogs
