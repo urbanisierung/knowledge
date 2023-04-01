@@ -59,3 +59,7 @@
 ## Image conversion
 
 - [https://svgtopng.com/](https://svgtopng.com/) - svg to image
+
+## Coding
+
+- [https://github.com/evanw/thumbhash](https://github.com/evanw/thumbhash)
