@@ -14,3 +14,4 @@
 - [https://mafs.dev/](https://mafs.dev/) - lib to generate math graphs
 - [https://react-wrap-balancer.vercel.app/](https://react-wrap-balancer.vercel.app/) - title balancer
 - [https://recharts.org/en-US](https://recharts.org/en-US)
+- [https://gorhom.github.io/react-native-bottom-sheet/](https://gorhom.github.io/react-native-bottom-sheet/) - A performant interactive bottom sheet with fully configurable options
