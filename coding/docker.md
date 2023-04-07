@@ -55,6 +55,12 @@ docker images --filter dangling=true -q
 docker rmi $(docker images --filter dangling=true -q)
 ```
 
+Navigate docker image
+
+```bash
+docker run -it $TAG sh
+```
+
 ## Dockerfile Best Practices
 
 Use the right Node base image: [https://snyk.io/blog/choosing-the-best-node-js-docker-image/](https://snyk.io/blog/choosing-the-best-node-js-docker-image/)
