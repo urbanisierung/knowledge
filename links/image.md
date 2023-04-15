@@ -47,6 +47,7 @@
 
 - [https://hue.tools/?format=hex](https://hue.tools/?format=hex): working with colors
 - [https://huemint.com/brand-1/](https://huemint.com/brand-1/) - color palettes
+- [https://colormagic.app/](https://colormagic.app/) - AI color palettes
 
 ## Cropper
 
