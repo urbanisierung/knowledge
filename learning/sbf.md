@@ -82,6 +82,19 @@
   - Keine schleifenden Schnitte (90 Grad +/- 30 Grad)
   - Bei 3 Peilungen ist der Standort in der Mitte des Fehlerdreiecks
 
+### Knoten
+
+1. **Achtknoten** verhindert das Durchraushen eines Endes.
+2. **Webeleinstek** zum kurzzeitigen belegen (zB Fende, typischer Fenderknoten)
+3. **Kreuzknoten** dient zum Verbinden zwei gleichstarker Enden. (hinten bleibt hinten, vorne bleibt vorne)
+4. **Schotstek einfach** zum Verbinden zwei ungleich starker Enden (unterschiedliche Leinendicken)
+5. **Schotstek doppelt** hält besser.
+6. **Slipstek** zum kurzzeitigen belegen (Webelein auf Slip)
+7. **Palstek** ist eine sich nicht zuziehende Schlinge (zB zum Festmachen an einen Pfahl oder Poller).
+8. **Stopperstek** stoppt in eine Richtung und lässt sich in die andere verschieben (zB an einer Leine)
+9. **1 1/2 Rundtörn und zwei halbe Schläge** zum dauerhaften Festmachen (zB an einem Ring oder an einer Stange).
+10. **Belegen einer Klampe mit Kopfschlag** zum Festmachen des Fahrzeug am Steg.
+
 ## Theorie Binnen
 
 - [Theorietexte](https://www.bootspruefung.de/theorie/sbf-binnen)
