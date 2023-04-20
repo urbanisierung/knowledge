@@ -95,6 +95,82 @@
 9. **1 1/2 Rundtörn und zwei halbe Schläge** zum dauerhaften Festmachen (zB an einem Ring oder an einer Stange).
 10. **Belegen einer Klampe mit Kopfschlag** zum Festmachen des Fahrzeug am Steg.
 
+### Navigationsaufgaben
+
+#### Beschreibung von Tonnen
+
+- 4 x
+
+  - Farbe: rot-weiß senkrecht gestreift
+  - Kennung: weißes Gleichtaktfeuer mit 8 Sekunden Wiederkehr
+  - Toppzeichen: roter Ball
+
+- 1 x
+
+  - Farbe: gelb
+  - Kennung: gelbes Blitzfeuer mit 4 Sekunden Wiederkehr
+  - Toppzeichen: keines
+
+- 1 x
+
+  - Farbe: grün
+  - Kennung: grünes unterbrochenes Feuer mit 4 Sekunden Wiederkehr
+  - Toppzeichen: keines
+
+- 1 x
+
+  - Farbe: grün
+  - Kennung: grünes unterbrochenes Feuer in 2er-Gruppen mit einer Wiederkehr von 9 Sekunden
+  - Toppzeichen: keines
+
+- 1 x
+
+  - Farbe: oben schwarz und unten gelb
+  - Kennung: weißes schnelles Funkelfeuer
+  - Toppzeichen: zwei Kegel - beide "Spitze oben" - senkrecht übereinander
+
+- 1 x
+
+  - Farbe: gelb
+  - Kennung: gelbes unterbrochenes Feuer mit 3 Gruppen und der Wiederkehr 12 Sekunden
+  - Toppzeichen: keines
+
+- 1 x
+
+  - Farbe: rot
+  - Kennung: rotes unterbrochenes Feuer in 3er-Gruppen und einer Wiederkehr von 12 Sekunden
+  - Toppzeichen: keines
+
+- 1 x
+
+  - Farbe: rot
+  - Kennung: rotes unterbrochenes Funkelfeuer mit 13 Sekunden Wiederkehr
+  - Toppzeichen: roter Zylinder
+
+- 1 x
+
+  - Farbe: grün
+  - Kennung: grünes Funkelfeuer
+  - Toppzeichen: grüner Kegel Spitze oben
+
+#### Sonstiges
+
+- Position der Gezeitenstromangabe, oder "Stromraute"
+- Wracks mit 3,7m bzw. 1,4m Tiefe
+- Kartentiefe 24m
+- Nord-Kardinal-Zeichen. Zeigt an, dass die Gefahrenstelle nördlich der Tonne sicher umfahren werden kann
+- Ost-Kardinal-Zeichen. Zeigt an, dass die Gefahrenstelle östlich der Tonne sicher umfahren werden kann
+- Festfeuer in Sektoren in den Farben weiß, rot und grün. Feuerhöhe 33m, Tragweiten 23sm bis 18sm
+- Nebelhorn in den Morsebuchstaben A und L alle 60 Sekunden
+- Kennzeichnung der Zufahrt von Fahrwassern und der Mitte von Schifffahrtswegen
+- Blink in 3er Gruppen, weiß-rot-grün. 20 Sekunden Wiederkehr. Feuerträger 38m hoch. Nenntragweite 16sm bis 11sm
+- Kartenfarben:
+  - weiß: tiefes Wasser
+  - hellblau: flaches Wasser
+  - hellgrün: Watt
+  - hellgelb: Land
+- Schifffahrtshindernis mit einer Kartentiefe von 9,7m
+
 ## Theorie Binnen
 
 - [Theorietexte](https://www.bootspruefung.de/theorie/sbf-binnen)
