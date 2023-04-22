@@ -95,6 +95,25 @@
 9. **1 1/2 Rundtörn und zwei halbe Schläge** zum dauerhaften Festmachen (zB an einem Ring oder an einer Stange).
 10. **Belegen einer Klampe mit Kopfschlag** zum Festmachen des Fahrzeug am Steg.
 
+### Feuer
+
+| Abkürzung | Übersetzung       | Deutsch                                               | Dauer               |     |
+| --------- | ----------------- | ----------------------------------------------------- | ------------------- | --- |
+| F         | Fix               | Festfeuer                                             |                     |
+| Oc (x)    | Occulting         | Unterbrochenes Feuer in Gruppen von x Unterbrechungen |                     |
+| Iso       | Isophase          | Gleichtaktfeuer                                       |                     |
+| LFl (x)   | Long Flash        | Blinkfeuer in x-er Gruppen                            | 2-4 Sekunden        |
+| Fl (x)    | Flash             | Blitzfeuer in x-er Gruppen                            | 30x pro Minute      |
+| Q (x)     | Quick             | Funkelfeuer                                           | 60x pro Minute      |
+| IQ        | Interrupted Quick | Unterbrochenes Funkelfeuer                            |                     |
+| VQ        | Very Quick        | Schnelles Funkelfeuer                                 | 100-120x pro Minute |
+
+### Zeichen
+
+![z1](./sbfseezeichen1.png)
+![z2](./sbfseezeichen2.png)
+![z3](./sbfseezeichen3.png)
+
 ### Navigationsaufgaben
 
 #### Beschreibung von Tonnen
