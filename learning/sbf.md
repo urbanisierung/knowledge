@@ -108,6 +108,17 @@
 | IQ        | Interrupted Quick | Unterbrochenes Funkelfeuer                            |                     |
 | VQ        | Very Quick        | Schnelles Funkelfeuer                                 | 100-120x pro Minute |
 
+### Beaufort Skala
+
+- 5: frischer Wind
+- 6: starker Wind
+- 8: stürmischer Wind
+
+Warnungen:
+
+- 6 und 7: Starkwindwarnung
+- 8: Sturmwarnung
+
 ### Zeichen
 
 ![z1](./sbfseezeichen1.png)
