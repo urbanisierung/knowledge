@@ -13,6 +13,7 @@
   - Nice: Aragon
 - [https://poet.so/](https://poet.so/): beautiful pictures of tweets
 - [https://github.com/terrastruct/d2](https://github.com/terrastruct/d2) - text to diagrams
+- [https://gradient.style/](https://gradient.style/) - nice gradients
 
 ## Image Manipulation
 
