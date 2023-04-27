@@ -15,3 +15,5 @@
 - [https://react-wrap-balancer.vercel.app/](https://react-wrap-balancer.vercel.app/) - title balancer
 - [https://recharts.org/en-US](https://recharts.org/en-US)
 - [https://gorhom.github.io/react-native-bottom-sheet/](https://gorhom.github.io/react-native-bottom-sheet/) - A performant interactive bottom sheet with fully configurable options
+- [https://www.tremor.so/](https://www.tremor.so/) - react dashboards
+- [https://cruip.com/](https://cruip.com/) - tailwind templates
