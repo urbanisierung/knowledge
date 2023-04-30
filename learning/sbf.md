@@ -97,8 +97,8 @@
 
 ### Feuer
 
-| Abkürzung | Übersetzung       | Deutsch                                               | Dauer               |     |
-| --------- | ----------------- | ----------------------------------------------------- | ------------------- | --- |
+| Abkürzung | Übersetzung       | Deutsch                                               | Dauer               |
+| --------- | ----------------- | ----------------------------------------------------- | ------------------- |
 | F         | Fix               | Festfeuer                                             |                     |
 | Oc (x)    | Occulting         | Unterbrochenes Feuer in Gruppen von x Unterbrechungen |                     |
 | Iso       | Isophase          | Gleichtaktfeuer                                       |                     |
