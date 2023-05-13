@@ -17,3 +17,4 @@
 - [https://gorhom.github.io/react-native-bottom-sheet/](https://gorhom.github.io/react-native-bottom-sheet/) - A performant interactive bottom sheet with fully configurable options
 - [https://www.tremor.so/](https://www.tremor.so/) - react dashboards
 - [https://cruip.com/](https://cruip.com/) - tailwind templates
+- [https://gridstackjs.com/](https://gridstackjs.com/) - create dashboards
