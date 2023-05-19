@@ -4,6 +4,10 @@
 
 ![overview](./2023-05-18-ai-tools.png)
 
+## GPT
+
+- [https://gpt4all.io](https://gpt4all.io) - local gpt chat
+
 ## Audio / Video
 
 - https://koe.ai/recast/ and https://ebsynth.com/
