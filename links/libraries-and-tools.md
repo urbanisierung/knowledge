@@ -67,6 +67,7 @@
 
 - [https://vis4.net/chromajs/](https://vis4.net/chromajs/)
 - [https://alwane.io/](https://alwane.io/)
+- [https://github.com/meodai/color-names](https://github.com/meodai/color-names)
 
 ## Docs
 
