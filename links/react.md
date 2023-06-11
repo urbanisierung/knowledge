@@ -18,3 +18,4 @@
 - [https://www.tremor.so/](https://www.tremor.so/) - react dashboards
 - [https://cruip.com/](https://cruip.com/) - tailwind templates
 - [https://gridstackjs.com/](https://gridstackjs.com/) - create dashboards
+- [https://github.com/algolia/autocomplete#readme](https://github.com/algolia/autocomplete#readme) - Algolia Autocomplete/Quicksearch lib
