@@ -4,6 +4,8 @@
 
 ![overview](./2023-05-18-ai-tools.png)
 
+- [https://github.com/a16z-infra/ai-getting-started](https://github.com/a16z-infra/ai-getting-started)
+
 ## GPT
 
 - [https://gpt4all.io](https://gpt4all.io) - local gpt chat
