@@ -28,6 +28,7 @@
 - [https://imgcleaner.com/](https://imgcleaner.com/) - remove elements from images
 - [https://unfakepng.com/](https://unfakepng.com/) - remove bg
 - [https://github.com/yisibl/resvg-js](https://github.com/yisibl/resvg-js) - svg to png
+- [https://github.com/imgly/background-removal-js](https://github.com/imgly/background-removal-js) - remove background
 
 ## Gradients
 
