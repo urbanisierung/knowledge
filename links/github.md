@@ -12,3 +12,4 @@
 - [https://crd.so](https://crd.so) - business cards from github profile
 - [https://github.com/sjmc11/tourguide-js](https://github.com/sjmc11/tourguide-js) - tour guide
 - [https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars-react](https://github.com/KingSora/OverlayScrollbars/tree/master/packages/overlayscrollbars-react)
+- [https://github.com/maaslalani/invoice](https://github.com/maaslalani/invoice) - create invoices from command line
