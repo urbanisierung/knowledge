@@ -1,6 +1,7 @@
 # Services
 
 - [https://www.jokan.studio/web-tools-ressources-list](https://www.jokan.studio/web-tools-ressources-list) - nice overview list
+- [https://www.insanelycooltools.com/](https://www.insanelycooltools.com/) - cool tools
 
 ## Database
 
