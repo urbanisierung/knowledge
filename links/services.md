@@ -8,6 +8,7 @@
 - [Planetscale](https://planetscale.com/): The MySQL-compatible serverless database platform.
 - [https://harperdb.io/](https://harperdb.io/)
 - [https://chiselstrike.com/](https://chiselstrike.com/)
+- [https://turso.tech/](https://turso.tech/)
 
 ## Status Page
 
