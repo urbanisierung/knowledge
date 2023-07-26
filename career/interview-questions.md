@@ -67,3 +67,11 @@ Management style/structure? Frequent catch-ups aka one-on-ones? Something else?
 Room for advancement?
 
 Learning opportunities?
+
+## Good questions to ask candidates
+
+see [https://twitter.com/thechrisperry/status/1679493168478273536?s=20](https://twitter.com/thechrisperry/status/1679493168478273536?s=20)
+
+- "Describe a product you worked on that didn't succeed as you hoped"
+- "Design the user interface of a time machine"
+- "Build a framework for determining the estimated lifetime cost of a new Drive user"
