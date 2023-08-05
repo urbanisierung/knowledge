@@ -18,6 +18,7 @@
 - [https://ellisonleao.github.io/sharer.js/](https://ellisonleao.github.io/sharer.js/) - share via social networks
 - [https://github.com/ndaidong/article-parser](https://github.com/ndaidong/article-parser) - Article Extractor
 - [https://gluonjs.org/](https://gluonjs.org/) - website to native app
+- [https://github.com/fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - validation
 
 ## Websites/apps
 
@@ -35,6 +36,7 @@
 - [https://github.com/visionmedia/node-progress](https://github.com/visionmedia/node-progress)
 - [https://github.com/alexeyraspopov/picocolors](https://github.com/alexeyraspopov/picocolors)
 - [https://github.com/dutiyesh/chrome-extension-cli](https://github.com/dutiyesh/chrome-extension-cli) - quickly create chrome extensions
+- [https://github.com/enquirer/enquirer](https://github.com/enquirer/enquirer)
 
 ## Charts
 
