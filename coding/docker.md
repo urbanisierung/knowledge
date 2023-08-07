@@ -61,6 +61,18 @@ Navigate docker image
 docker run -it $TAG sh
 ```
 
+Stop all running containers
+
+```bash
+docker stop $(docker ps -a -q)
+```
+
+Remove all containers
+
+```bash
+docker rm $(docker ps -aq)
+```
+
 ## Dockerfile Best Practices
 
 Use the right Node base image: [https://snyk.io/blog/choosing-the-best-node-js-docker-image/](https://snyk.io/blog/choosing-the-best-node-js-docker-image/)
