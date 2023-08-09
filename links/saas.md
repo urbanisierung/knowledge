@@ -15,3 +15,7 @@
 ## Guided Product Tours
 
 - [https://driverjs.com/](https://driverjs.com/)
+
+## Nice shots
+
+- [https://shots.so/](https://shots.so/)
