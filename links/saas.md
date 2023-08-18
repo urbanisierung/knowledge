@@ -19,3 +19,29 @@
 ## Nice shots
 
 - [https://shots.so/](https://shots.so/)
+
+## Images
+
+- [https://www.pexels.com/](https://www.pexels.com/)
+
+## Fonts
+
+- [https://www.fontshare.com/](https://www.fontshare.com/)
+
+7 mind-blowing free fonts:
+
+- Inter
+- Aeonik
+- Satoshi
+- Cal Sans
+- Manrope
+- Helvetica
+- Space Grotesk
+
+## Bento Grids
+
+- [https://bentogrids.com/](https://bentogrids.com/)
+
+## SVGs
+
+- [https://shapes.framer.website/](https://shapes.framer.website/)

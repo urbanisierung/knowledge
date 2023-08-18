@@ -19,3 +19,6 @@
 - [https://cruip.com/](https://cruip.com/) - tailwind templates
 - [https://gridstackjs.com/](https://gridstackjs.com/) - create dashboards
 - [https://github.com/algolia/autocomplete#readme](https://github.com/algolia/autocomplete#readme) - Algolia Autocomplete/Quicksearch lib
+- [https://github.com/jcubic/tagger](https://github.com/jcubic/tagger) - tagger
+- [https://barba.js.org/](https://barba.js.org/) - page transitions, animations
+- [https://react-svgr.com/](https://react-svgr.com/) - svg to react components
