@@ -13,3 +13,4 @@
 ## tools and howtos
 
 - [https://blog.curiosity.ai/how-to-make-product-videos-a-simple-guide-ad8864e031e2](https://blog.curiosity.ai/how-to-make-product-videos-a-simple-guide-ad8864e031e2)
+- [https://github.com/ozmartian/vidcutter](https://github.com/ozmartian/vidcutter) - video cutter
