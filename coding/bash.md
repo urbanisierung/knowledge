@@ -1,5 +1,9 @@
 # Bash
 
+## Bash Bible
+
+- [https://github.com/dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - lots of useful bash scripts
+
 ## Template
 
 Great template to start with:
