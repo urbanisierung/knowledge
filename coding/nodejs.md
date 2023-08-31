@@ -1,6 +1,8 @@
 # NodeJS
 
-- Best Practices: https://github.com/goldbergyoni/nodebestpractices
+- Best Practices:
+  - https://github.com/goldbergyoni/nodebestpractices
+  - https://github.com/nodeshift/nodejs-reference-architecture
 
 ## Update all dependencies
 
