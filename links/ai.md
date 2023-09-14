@@ -69,6 +69,7 @@
 - [https://flowgpt.com/](https://flowgpt.com/)
 - [https://aidepot.co/](https://aidepot.co/) - overview of AI Tools
 - [https://simplified.com/](https://simplified.com/) - marketing
+- [https://github.com/Ironclad/rivet](https://github.com/Ironclad/rivet) - open source visual AI programming
 
 ## Tweets
 
