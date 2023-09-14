@@ -45,3 +45,7 @@
 ## SVGs
 
 - [https://shapes.framer.website/](https://shapes.framer.website/)
+
+## Search Index
+
+- [https://pagefind.app](https://pagefind.app)
