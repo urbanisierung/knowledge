@@ -75,3 +75,7 @@ see [https://twitter.com/thechrisperry/status/1679493168478273536?s=20](https://
 - "Describe a product you worked on that didn't succeed as you hoped"
 - "Design the user interface of a time machine"
 - "Build a framework for determining the estimated lifetime cost of a new Drive user"
+
+## Preparation
+
+- [https://github.com/moabukar/tech-vault](https://github.com/moabukar/tech-vault) - common questions and answers
