@@ -49,3 +49,7 @@
 ## Search Index
 
 - [https://pagefind.app](https://pagefind.app)
+
+## Validation / Copy
+
+- [https://twitter.com/natiakourdadze/status/1711414670890803574?s=43&t=nkmq7ZtVcxEg9Uel7KivwQ](https://twitter.com/natiakourdadze/status/1711414670890803574?s=43&t=nkmq7ZtVcxEg9Uel7KivwQ) - thread how to find a company that is worth to copy
