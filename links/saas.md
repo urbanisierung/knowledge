@@ -53,3 +53,5 @@
 ## Validation / Copy
 
 - [https://twitter.com/natiakourdadze/status/1711414670890803574?s=43&t=nkmq7ZtVcxEg9Uel7KivwQ](https://twitter.com/natiakourdadze/status/1711414670890803574?s=43&t=nkmq7ZtVcxEg9Uel7KivwQ) - thread how to find a company that is worth to copy
+- [https://www.linkedin.com/posts/amanda-cua_we-get-tons-of-press-releases-and-pitches-activity-7115256810948739072-LlIO/?utm_source=share&utm_medium=member_ios](https://www.linkedin.com/posts/amanda-cua_we-get-tons-of-press-releases-and-pitches-activity-7115256810948739072-LlIO/?utm_source=share&utm_medium=member_ios) - promote
+- [https://twitter.com/shnai0/status/1711790186747564463?s=43&t=nkmq7ZtVcxEg9Uel7KivwQ](https://twitter.com/shnai0/status/1711790186747564463?s=43&t=nkmq7ZtVcxEg9Uel7KivwQ) - How to win SEO fast?

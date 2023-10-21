@@ -6,3 +6,4 @@
 - [https://simplified.com/](https://simplified.com/)
 - [https://twitter.com/dannypostmaa/status/1646368426246680579?s=20](https://twitter.com/dannypostmaa/status/1646368426246680579?s=20) - steps for how to SEO!
 - [https://twitter.com/chernikovalexey/status/1704115147063611577?s=43&t=nkmq7ZtVcxEg9Uel7KivwQ](https://twitter.com/chernikovalexey/status/1704115147063611577?s=43&t=nkmq7ZtVcxEg9Uel7KivwQ) - another step by step instructions
+- [https://twitter.com/shnai0/status/1711790186747564463?s=43&t=nkmq7ZtVcxEg9Uel7KivwQ](https://twitter.com/shnai0/status/1711790186747564463?s=43&t=nkmq7ZtVcxEg9Uel7KivwQ) - How to win SEO fast?
