@@ -58,3 +58,9 @@ git checkout tags/<tag_name> -b <branch_name>
 ```
 
 Publish branch and create a new release from branch
+
+## Commit in past
+
+```bash
+git commit --date="1 day ago" -m "..." -a
+```
