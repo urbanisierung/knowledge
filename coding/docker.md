@@ -17,6 +17,13 @@ With file in monorepo:
 docker build -t $TAG -f $FILE --build-arg NAME=value .
 ```
 
+Check size
+
+```bash
+# save image
+docker save $NAME -o $OUTPUT_FILE.tar
+```
+
 Run Image
 
 ```bash
