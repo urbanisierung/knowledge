@@ -22,6 +22,25 @@ Check size
 ```bash
 # save image
 docker save $NAME -o $OUTPUT_FILE.tar
+
+# login to image and run the following:
+# root
+du -h -s app/ bin/ dev/ etc/ home/ lib/ lib64/ media/ opt/ run/ sbin/ srv/ sys/ tmp/ usr/ var/
+
+# usr
+du -h -s bin/ include/ lib libexec/ local/ sbin/ share/
+
+# app
+du -h -s apps/ node_modules/ packages/
+
+# by size
+du -h | sort -h
+```
+
+Check vulnerabilities
+
+```bash
+trivy image $TAG --scanners vuln
 ```
 
 Run Image
