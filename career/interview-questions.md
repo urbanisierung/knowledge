@@ -76,6 +76,19 @@ see [https://twitter.com/thechrisperry/status/1679493168478273536?s=20](https://
 - "Design the user interface of a time machine"
 - "Build a framework for determining the estimated lifetime cost of a new Drive user"
 
+## Good questions as applicant
+
+see https://twitter.com/fluentinfinance/status/1787640191559123211
+
+1. Is there anything else I can elaborate on to ensure I’m the best choice?
+2. What doubts do you have about my qualifications for this role?
+3. What are some of the skills and experiences you’re hoping the ideal candidate has, that we haven’t gotten a chance to talk about?
+4. Can you describe a typical day in this role?
+5. What key achievements would define success in the first 6-12 months?
+6. How does this company handle internal promotions and career advancement?
+7. What are the biggest challenges I would face in the first 3 to 6 months if hired?
+8. What are some must-have soft skills you feel contribute most to success here?
+
 ## Preparation
 
 - [https://github.com/moabukar/tech-vault](https://github.com/moabukar/tech-vault) - common questions and answers
