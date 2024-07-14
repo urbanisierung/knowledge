@@ -1,5 +1,15 @@
 # interview questions
 
+check: https://x.com/dklineii/status/1811726197220680050?s=43&t=nkmq7ZtVcxEg9Uel7KivwQ
+
+- Who have you recently promoted (and why)?
+- have you had to fire anyone from the team (and why)?
+- When do you know it's time to help people rotate off your team?
+- If someone is struggling, how do you support them?
+- How do you keep your stars challenged?
+- Tell me about how accountability works on your team.
+- Who are you grooming to take your spot?
+
 source: [https://daveceddia.com/interview-questions-to-ask-company/](https://daveceddia.com/interview-questions-to-ask-company/)
 another: [https://github.com/Twipped/InterviewThis](https://github.com/Twipped/InterviewThis)
 research: [https://neverworkintheory.org/2022/08/30/software-engineering-research-questions.html](https://neverworkintheory.org/2022/08/30/software-engineering-research-questions.html)
