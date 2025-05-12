@@ -143,3 +143,17 @@ EXPOSE 8080
 
 CMD [ "node", "app.js" ]
 ```
+
+## Docker Compose
+
+Local build:
+
+```yaml
+services:
+  web:
+    build:
+      context: project-root
+      dockerfile: dockerfile-path
+    ports:
+      - "8080:8080"
+```
