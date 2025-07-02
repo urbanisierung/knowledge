@@ -3,11 +3,12 @@
   "dashboards": [],
   "entries": [],
   "files": {
-    "selected": "README.md",
+    "selected": ".lifeos/.dashboard.config.json",
     "opened": [
-      "README.md"
+      ".lifeos/.dashboard.config.json"
     ],
     "recentlyOpened": [
+      ".lifeos/.dashboard.config.json",
       "README.md"
     ]
   }
